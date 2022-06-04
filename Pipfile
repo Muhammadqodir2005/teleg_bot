@@ -1,0 +1,15 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+aiogram = "==2.19"
+environs = "==9.5.0"
+pymysql = "==1.0.2"
+aiomysql = "==0.1.0"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
